@@ -32,7 +32,7 @@ public class Main {
         } else {
             max = mishaAge;
 
-            //Находим средний возраст
+            //Находим ср-ий возраст
         }
         if (min != vasyaAge && max != vasyaAge) {
             middle = vasyaAge;
